@@ -5,7 +5,7 @@ t
 tz  
 
 sr k yuf txc
-
+Zmena z githubu
 
 d 
 kr
